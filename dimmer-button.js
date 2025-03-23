@@ -9,7 +9,7 @@ import {
     LitElement,
     html,
     css
-} } from "./lit-core.min.js";
+} from "./lit-core.min.js";
 
 console.info('%c DIMMER-BUTTON %c 0.4 ','color: antiquewhite; background: #B565C6;','color: salmon; background: gray;');
 
