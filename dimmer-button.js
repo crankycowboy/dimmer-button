@@ -9,7 +9,7 @@ import {
     LitElement,
     html,
     css
-} from "https://unpkg.com/lit-element@2.0.1/lit-element.js?module";
+} } from "./lit-core.min.js";
 
 console.info('%c DIMMER-BUTTON %c 0.4 ','color: antiquewhite; background: #B565C6;','color: salmon; background: gray;');
 
